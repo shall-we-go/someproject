@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/shall-we-go/somemodule"
+	somemodule "github.com/shall-we-go/somemodule/v2"
 )
 
 func main() {

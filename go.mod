@@ -2,4 +2,4 @@ module github.com/shall-we-go/someproject
 
 go 1.15
 
-require github.com/shall-we-go/somemodule v1.2.0
+require github.com/shall-we-go/somemodule/v2 v2.0.1 // indirect
